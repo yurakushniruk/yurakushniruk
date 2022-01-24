@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yurakushniruk
-- 👀 I’m interested in programming, photography, foreign languages
+- 👀 I’m interested in programming, photography, videography
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: instagram: @yuri.kushniruk
 
 <!---
