@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurakushniruk
 - 👀 I’m interested in programming, photography, videography
-- 🌱 I’m currently learning Angular, .NET 6
+- 🌱 I’m currently learning TDD, Blazor
 - 📫 How to reach me: instagram: @yuri.kushniruk
 
 <!---
